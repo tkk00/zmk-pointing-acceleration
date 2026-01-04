@@ -1,6 +1,6 @@
 #include <zephyr/kernel.h>
 #include <zephyr/device.h>
-#include <zmk/input_processor.h>
+#include <zmk/input_processors/input_processor.h>
 #include <zephyr/dt-bindings/input/input-event-codes.h>
 #include <stdlib.h>  // abs()
 
